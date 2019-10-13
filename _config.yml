@@ -108,10 +108,10 @@ analytics:
 # Site 
 author:
   name             : "Seung_h"
-  avatar           : "/assets/images/81267083_1568099301763_1_600x600.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "24"
   location         : "Gwangju"
-  University       : "Wonkwang"
+  Email            : "Wonkwang"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
