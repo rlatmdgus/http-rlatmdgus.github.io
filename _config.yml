@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seung_h"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Somewhere"
-  email            :
+  age              : "24"
+  location         : "Gwangju"
+  University       : "Wonkwang"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
