@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Seung_h"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   age              : "24"
   location         : "Gwangju"
   University       : "Wonkwang"
